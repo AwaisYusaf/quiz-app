@@ -1,0 +1,19 @@
+{
+    "quiz-data":[
+        {"question":"When Pakistan came into being?",
+        "options":["1942","1952","1947","1945"],
+        "correct_answer":"1947"},
+
+        {"question":"Who was the first prime minitser of Pakistan?",
+        "options":["Quaid-e-Azam","Liaqat Ali Khan","Choudary Rehmat Ali","Fatima Jinnah"],
+        "correct_answer":"Liaqat Ali Khan"},
+
+        {"question":"Where is the national police acadey of Pakistan?",
+        "options":["Rawalpindi","Quetta Cantt","Sehala Cantt","Attock Cantt"],
+        "correct_answer":"Sehala Cantt"},
+
+        {"question":"Which country first recognized Pakistan?",
+        "options":["Iraq","Iran","China","America"],
+        "correct_answer":"Iran"}
+    ]
+}
